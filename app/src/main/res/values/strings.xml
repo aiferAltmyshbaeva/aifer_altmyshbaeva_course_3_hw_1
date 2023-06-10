@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">C3Lesson1Hw1</string>
+    <string name="to">To</string>
+    <string name="subject">Subject</string>
+    <string name="compose_message">Compose message</string>
+    <string name="send">SEND</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="EditTextWithBorder">
+        <item name="android:background">@drawable/et_border</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="cornerRadius">10dp</item>
+        <item name="android:paddingVertical">12dp</item>
+        <item name="android:paddingHorizontal">10dp</item>
+        <item name="android:gravity">start</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textColorHint">@color/gray</item>
+        <item name="android:layout_margin">10dp</item>
+    </style>
+</resources>
+
+
+
+
+
+
